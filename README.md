@@ -2,7 +2,7 @@
 
 Projet d'analyse de données réalisé par **Reda Erraoui** en première année de la filière Finance et Ingénierie Décisionnelle de l'ENSA Agadir (2024–2025), sous l'encadrement de Pr. B. El Asri.
 
-**[Essayer le simulateur en ligne](https://redae03.github.io/#simulateur-clustering)** · **[Lire le rapport (PDF)](rapport.pdf)**
+**[Essayer le simulateur en ligne](https://redaerraoui.github.io/simulateurs/clustering.html)** · **[Lire le rapport (PDF)](rapport.pdf)**
 
 ## Contenu
 
@@ -44,4 +44,4 @@ Sur Iris centré-réduit avec k = 3, on obtient les résultats suivants :
 
 ## Contact
 
-Reda Erraoui · [Portfolio](https://redae03.github.io) · redaerraouie@gmail.com
+Reda Erraoui · [Portfolio](https://redaerraoui.github.io) · redaerraouie@gmail.com
